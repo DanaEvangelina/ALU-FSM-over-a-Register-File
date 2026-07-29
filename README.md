@@ -227,7 +227,7 @@ The recommended demonstration should show:
 Markdown example:
 
 ```markdown
-[![Demo](docs/demo_thumbnail.png)](docs/demo.mp4)
+[![Demo](docs/demo.gif)](docs/demo.gif)
 ```
 
 ---
