@@ -13,6 +13,12 @@ result back into memory.
 
 ---
 
+<p align="center">
+  <img src="docs/diagrama.png" alt="System Architecture" width="800">
+</p>
+
+---
+
 ## Contents
 
 1. [Objective](#1-objective)
@@ -206,8 +212,6 @@ With `sel_op = "10"` (subtraction), the ALU computes
 
 which matches the operation decoding implemented in `OP.vhd`.
 
-**Suggestion:** include `Sim.png` inside `docs/` with annotations identifying
-each FSM state.
 
 ---
 
