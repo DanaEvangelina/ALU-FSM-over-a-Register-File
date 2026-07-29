@@ -217,22 +217,8 @@ which matches the operation decoding implemented in `OP.vhd`.
 
 ## 7. Board Demonstration
 
-Include the demonstration video as `docs/demo.mp4`, or upload it to YouTube
-and link it here.
-
-The recommended demonstration should show:
-
-- POKE of two values using the switches.
-- PEEK verifying the stored values.
-- ALU operation (addition, subtraction, or multiplication) with the result
-  displayed on the seven-segment display.
-- A case that triggers `error_out`.
-
-Markdown example:
-
-```markdown
 [![Demo](docs/demo.gif)](docs/demo.gif)
-```
+
 
 ---
 
